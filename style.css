@@ -8,7 +8,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   outline: none;
 }
 html { height: 101%; } /* always display scrollbars */
-body { font-size: 62.5%; line-height: 1; font-family: Arial, Tahoma, Verdana, sans-serif; }
+body { font-size: 62.5%; line-height: 1; font-family: Arial, Tahoma, Verdana, sans-serif;}
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
 ol, ul { list-style: none; }
@@ -991,7 +991,7 @@ textarea.form__input {
   .main-image__bg {
     max-width: 150px;
     max-height: 275px;
-    right: 17%;
+    right: 20%;
     top: -20%;
   }
   .main-image__bg--gradient {
@@ -1044,7 +1044,7 @@ textarea.form__input {
     height: 323px;
     border-radius: 0;
     position: absolute;
-    right: -5.6%;
+    right: -4.2%;
     top: -7%;
   }
   .startscreen__app-title {
@@ -1270,7 +1270,7 @@ textarea.form__input {
     background-image: url(img/QR-image-2-reduce.webp);
     width: 312px;
     height: 297px;
-    margin-left: 67px;
+    margin-left: 62px;
     background-size: contain;
   }
   .QR-code__image1 {
